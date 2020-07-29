@@ -1,2 +1,2 @@
 # STOP-WATCH
-A timer with stopwatch using JavaScript.
+An interactive chronometer using JavaScript.
